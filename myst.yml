@@ -15,6 +15,7 @@ project:
 
     - file: project_1.ipynb
     - file: project2_healthcare.ipynb
+    - file: project3_restaurant_safety.ipynb
 
 
     
